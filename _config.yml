@@ -6,6 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>I am in the middle of 
   <br>setting up my github site. 
   <br>Bookmark this to keep an eye on my project updates!
+  <br>
   <br><a href="https://www.linkedin.com/in/bj-zimmermann/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
