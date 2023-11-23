@@ -1,11 +1,14 @@
-title: Björn Zimmermann # your name (or website title) here
+title: bjzim.github.io # your name (or website title) here
 logo: "/images/bjzim_avatar.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
   <br><br>
-  Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/bj-zimmermann/">View My LinkedIn Profile</a> 
+  <br>I am in the middle of 
+  <br>setting up my github site. 
+  <br><br>
+  <br>There is more to come.
+  <br>
+  <br><a href="https://www.linkedin.com/in/bj-zimmermann/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
